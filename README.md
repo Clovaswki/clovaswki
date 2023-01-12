@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, devs, lhes apresento o dev Clóvis 👋
 
-<!--
-**Clovaswki/clovaswki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Clóvis e tenho o pleno objetivo de prosperar no universo do desenvolvimento de software⚡. Para tanto, vale destacar as minhas habilidades
+quanto ao **Desenvolvimento Web Full-Stack**, com destaque ao meu domínio em frameworks Front-End, tal como **ReactJS** e **NextJS**👨🏻‍💻. Logo, este conjunto
+de caracteres contribuem para com o meu propósito de continuar assimilando conhecimento e evoluindo como profissional. Assim, é válido dizer que as minhas
+pretensões como desenvolvedor materializam o foco do qual preciso para crescer 🤓.
 
-Here are some ideas to get you started:
+Minha atual área de atuação🖖:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://user-images.githubusercontent.com/86498267/212095122-30fa1814-08b2-43fa-9626-552c6e0a0771.png)
+![image](https://user-images.githubusercontent.com/86498267/212094820-50d84e9b-cc8a-48eb-99b5-c000ce1b588a.png)
+![image](https://user-images.githubusercontent.com/86498267/212094958-ad178158-981b-4554-8df4-aa9ab737b81c.png)
+![image](https://user-images.githubusercontent.com/86498267/212094983-18aaed7f-2588-43ca-9771-03d77d1db440.png)
