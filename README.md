@@ -2,7 +2,7 @@
 <h1 align="center">👋Olá, eu sou o dev Clóvis</h1>
 
 <div align="center">
-<a href="" align="center">Linkedin</a>
+<a href="https://www.linkedin.com/in/clovis-ferreira-a79b97255/" align="center">Linkedin</a>
 </div>
 
 
